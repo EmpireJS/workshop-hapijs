@@ -17,7 +17,7 @@ Look forward to seeing you there!
 
 ## Trainers
 
-* Ben Acker
+* [Ben Acker](https://twitter.com/nvcexploder)
 * Kevin Stevens 
 * James Weston
 * Colin Ihrig 
