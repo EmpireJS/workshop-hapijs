@@ -18,11 +18,11 @@ Look forward to seeing you there!
 ## Trainers
 
 * [Ben Acker](https://twitter.com/nvcexploder)
-* Kevin Stevens 
-* James Weston
-* Colin Ihrig 
-* Jeff White
-* Adam Bretz
+* [Kevin Stevens](https://twitter.com/kevstev) 
+* [James Weston](https://twitter.com/therealexpert) 
+* [Colin Ihrig](https://twitter.com/cjihrig) 
+* [Jeff White](https://twitter.com/node_jw) 
+* [Adam Bretz](https://twitter.com/adambretz) 
 
 
 ## Preparations for this training
